@@ -20,11 +20,7 @@ p{
 
 div > div > div{
     border: 1px solid black;
-<<<<<<< HEAD
     background-color: rgb(179, 177, 177);
-=======
-    background-color: pink;
->>>>>>> 894e34dc6830074346704b44e6c1a45e7d04069b
     width: 90%;
     height: 10%;
     margin-right: auto;
