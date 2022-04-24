@@ -7,7 +7,7 @@
 
 h1 {
     margin : 2rem 0;
-    font-size: 3em;
+    font-size: 3rem;
     text-align: center;
 
 }
@@ -15,7 +15,7 @@ h1 {
 p{
     margin-top: 2.5rem;
     padding: 0 1em;
-    font-size: 1em;
+    font-size: 1rem;
 }
 
 div > div > div{
@@ -35,7 +35,7 @@ span{
     position: relative;
     float: right;
     padding: 0.25rem 1.5rem;
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 #spanChicken {
