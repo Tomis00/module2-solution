@@ -20,7 +20,7 @@ p{
 
 div > div > div{
     border: 1px solid black;
-    background-color: rgb(179, 177, 177);
+    background-color: pink;
     width: 90%;
     height: 10%;
     margin-right: auto;
